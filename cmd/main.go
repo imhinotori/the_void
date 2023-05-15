@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/imhinotori/the_void/internal/config"
-	"github.com/imhinotori/the_void/internal/server"
+	"github.com/imhinotori/void/internal/config"
+	"github.com/imhinotori/void/internal/server"
 	"github.com/knadh/koanf/parsers/toml"
 	"github.com/knadh/koanf/providers/file"
 	"github.com/knadh/koanf/v2"

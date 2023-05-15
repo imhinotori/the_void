@@ -1,4 +1,4 @@
-module github.com/imhinotori/the_void
+module github.com/imhinotori/void
 
 go 1.20
 

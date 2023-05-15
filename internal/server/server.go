@@ -3,7 +3,7 @@ package server
 import (
 	"github.com/Tnze/go-mc/net"
 	"github.com/Tnze/go-mc/net/packet"
-	"github.com/imhinotori/the_void/internal/config"
+	"github.com/imhinotori/void/internal/config"
 	"github.com/rs/zerolog/log"
 	"strconv"
 )
